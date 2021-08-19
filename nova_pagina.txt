@@ -1,0 +1,8 @@
+<html>
+    <head>
+	<title>Nova pagina</title>
+    </head>
+    <body>
+	<p>linha marcada com <strong>negrito</strong></p>
+    </body>
+</html>
