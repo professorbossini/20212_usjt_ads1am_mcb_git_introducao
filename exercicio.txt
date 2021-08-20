@@ -1,0 +1,12 @@
+1. Criar um repositório local git
+2. Criar um arquivo HTML em que alguns nomes de cursos são exibidos
+3. Fazer um primeiro commit
+4. Adicionar nova página HTML em que dados de contato são exibidos
+5. Fazer novo commit incluindo todos os arquivos
+6. Incluir arquivo de extensão .txt em que algumas senhas são armazenadas
+7. Instruir o Git a ignorar o arquivo de senhas
+8. Adicionar o arquivo .gitignore ao controle de versão.
+9. Marcar o commit atual como "importante"
+10. Criar um repositório no Github
+11. Fazer push dos commits e da tag.
+12. Enviar o link de releases no chat.
